@@ -1,15 +1,3 @@
-<style>
-    .head {
-        display: flex;
-        justify-content: center;
-    }
-
-    .center {
-        display: flex;
-        justify-content: center;
-    }
-</style>
-
 <h1 class="head">
     <img src='name.gif'>
 </h1>
@@ -24,3 +12,19 @@
 
 <img src="https://api.githubtrends.io/user/svg/ROTBOW/langs?time_range=all_time&include_private=True&theme=dark"/>
 </div>
+
+
+<details>
+    <summary>Styling</summary>
+    <style>
+        .head {
+            display: flex;
+            justify-content: center;
+        }
+
+        .center {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</details>
