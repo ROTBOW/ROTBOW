@@ -11,5 +11,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rotbow&show_icons=true&theme=shadow_red"/>
 
 <img src="https://api.githubtrends.io/user/svg/ROTBOW/langs?time_range=all_time&include_private=True&theme=dark"/>
-[![ROTBOW's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ROTBOW)](https://github.com/anuraghazra/github-readme-stats)
 </div>
