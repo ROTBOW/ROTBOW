@@ -10,9 +10,9 @@
 <div>
 
 <h2>Salutations!</h2>
-I'm Josiah, a software engineer turned carrer coach!<br/>
-Python took ahold of me when I first started using it some odd years ago. <br/>
-The automation of programming has always fascinated me, this led me to, for fun, create quite a few bots to beat some online games. The latest of these plays the known, <a href="https://neal.fun/infinite-craft/">infinite craft</a>. (Got 5,250 items before I turned it off!)
+I'm Josiah, a software engineer turned career coach!<br/>
+Python took hold of me when I first started using it some odd years ago. <br/>
+The automation of programming has always fascinated me, this led me to, for fun, create quite a few bots to beat some online games. The latest of these plays the Wordle! Quite proud of that one
 <br/><br/>
 I've also recently got into printing/painting minis and models, quite dorky but super therapeutic.
 
