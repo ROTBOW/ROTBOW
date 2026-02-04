@@ -10,7 +10,7 @@
 <div>
 
 <h2>Salutations!</h2>
-I'm Josiah, a software engineer turned career coach!<br/>
+I'm Josiah, a software engineer!<br/>
 Python took hold of me when I first started using it some odd years ago. <br/>
 The automation of programming has always fascinated me, this led me to, for fun, create quite a few bots to beat some online games. The latest of these plays the Wordle! Quite proud of that one
 <br/><br/>
